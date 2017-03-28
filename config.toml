@@ -38,8 +38,8 @@ theme = "hugo-elate-theme"
 
   # Hero section
   [params.hero]
-    title = "Do something you love."
-    subtitle = 'Another free HTML5 bootstrap template by <a href="http://freehtml5.co/" target="_blank" title="Free HTML5 Bootstrap Templates">FREEHTML5.co</a> released under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons 3.0</a><br> ported for Hugo by <a href="http://saey55.gitlab.io/pietercv" target="_blank">Pieter Saey</a>'
+    title = "Climb above the mountains of open source maintenance"
+    subtitle = "We help maintain your GitHub projects for you, allowing you more time to focus on what you want"
 
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -47,83 +47,83 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Plan"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = ""
     url = "#"
-    button = "Get In Touch"
-    icon = "icon-bulb"
+    button = "Go Open Source"
+    icon = "icon-github"
     img = "img_7.jpg"
 
   [[params.intro.item]]
-    title = "Develop"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Got Issues?"
+    description = "We'll help you triage and manage open issues and pull requests, providing you with copy and templates for recurring questions. Take the stress out of user demands."
     url = "#"
-    button = "Click Me"
-    icon = "icon-wrench"
+    button = "See our plans"
+    icon = "icon-exclamation"
     img = "img_8.jpg"
 
   [[params.intro.item]]
-    title = "Launch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    title = "Community Dashboard"
+    description = "Track your community over time, to provide data-based feedback about how you can grow and get more open source contributions."
     url = "#"
     button = "Why us?"
-    icon = "icon-rocket"
+    icon = "icon-graph"
     img = "img_10.jpg"
 
-  [params.intro.video]
-    enable = true
-    title = "Watch the video"
-    icon = "icon-play2"
-    url = "https://vimeo.com/channels/staffpicks/93951774"
+  # [params.intro.video]
+  #   enable = false
+  #   title = "Watch the video"
+  #   icon = "icon-play2"
+  #   url = "https://vimeo.com/channels/staffpicks/93951774"
 
 
   # Work section
-  [params.work]
-    enable = true
-    title = "Work"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-    footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
-
-    [[params.work.row]]
-      img = "work_1.jpg"
-      alt = "Image2"
-      title = "Project 1"
-      subtitle = "Branding"
-
-    [[params.work.row]]
-      img = "work_2.jpg"
-      alt = "Image2"
-      title = "Project 2"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_3.jpg"
-      alt = "Image3"
-      title = "Project 3"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_4.jpg"
-      alt = "Image4"
-      title = "Project 4"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_5.jpg"
-      alt = "Image5"
-      title = "Project 5"
-      subtitle = "Design"
-
-    [[params.work.row]]
-      img = "work_6.jpg"
-      alt = "Image6"
-      title = "Project 6"
-      subtitle = "Design"
+  # [params.work]
+  #   enable = false
+  #   title = "Work"
+  #   description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+  #   footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
+  #
+  #   [[params.work.row]]
+  #     img = "work_1.jpg"
+  #     alt = "Image2"
+  #     title = "Project 1"
+  #     subtitle = "Branding"
+  #
+  #   [[params.work.row]]
+  #     img = "work_2.jpg"
+  #     alt = "Image2"
+  #     title = "Project 2"
+  #     subtitle = "Design"
+  #
+  #   [[params.work.row]]
+  #     img = "work_3.jpg"
+  #     alt = "Image3"
+  #     title = "Project 3"
+  #     subtitle = "Design"
+  #
+  #   [[params.work.row]]
+  #     img = "work_4.jpg"
+  #     alt = "Image4"
+  #     title = "Project 4"
+  #     subtitle = "Design"
+  #
+  #   [[params.work.row]]
+  #     img = "work_5.jpg"
+  #     alt = "Image5"
+  #     title = "Project 5"
+  #     subtitle = "Design"
+  #
+  #   [[params.work.row]]
+  #     img = "work_6.jpg"
+  #     alt = "Image6"
+  #     title = "Project 6"
+  #     subtitle = "Design"
 
   # Testimonials section
   [params.testimonials]
     enable = true
     title = "Testimonials"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    # description = "Some feedback from people who've worked with us."
 
     [[params.testimonials.item]]
       quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
@@ -153,69 +153,70 @@ theme = "hugo-elate-theme"
     description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
 
     [[params.services.item]]
-      title = "Brand &amp; Strategy"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-anchor"
+      title = "GitHub maintainance"
+      description = "We've built tools and processes to help maintain your GitHub repositories and organization, making it easy for newcomers to contribute to your code, and stay on as community members"
+      icon = "icon-github"
 
     [[params.services.item]]
-      title = "Web &amp; Interface"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-layers2"
-    [[params.services.item]]
-      title = "Photo &amp; Video"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-video2"
+      title = "Issue Triage"
+      description = "We'll help you triage and manage open issues and pull requests, providing you with copy and templates for recurring questions. Take the stress out of user demands."
+      icon = "icon-exclamation-circle"
 
-      [[params.services.item]]
-      title = "CMS &amp; eCommerce"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean"
-      icon = "icon-monitor"
+    [[params.services.item]]
+      title = "Community Dashboards"
+      description = "Track your community over time, to provide data-based feedback about how you can grow and get more open source contributions."
+      icon = "icon-graph"
+
+    [[params.services.item]]
+      title = "Open Sourcing"
+      description = "Want to make your project open source, but don't know how? We'll help you modularize the code, and outline a strategy getting people excited about your code"
+      icon = "icon-sign"
 
   # About section
   [params.about]
     enable = true
     title = "About"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "We're an experienced, diverse team of open source experts."
 
     [[params.about.item]]
-      name = "Jean Smith"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+      name = "Richard Littauer"
+      position = "JavaScript Adventurer"
+      description = "Richard is happiest coding from a ski lodge on top of a mountain. He's dedicated to building fantastic READMEs and growing communities."
       img = "person1.jpg"
       alt = "Person1"
       social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-linkedin", "#"]
+        ["icon-twitter", "https://twitter.com/richlitt"],
+        ["icon-github", "https://github.com/RichardLitt"],
+        ["icon-envelope", "mailto:richard@maintainer.io"]
       ]
 
-    [[params.about.item]]
-      name = "Rob Smith"
-      position = "Web Developer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person2.jpg"
-      alt = "Person2"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-github", "#"]
-      ]
-
-    [[params.about.item]]
-      name = "Larry Ben"
-      position = "Web Designer"
-      description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-      img = "person3.jpg"
-      alt = "Person3"
-      social = [
-        ["icon-twitter", "#"],
-        ["icon-facebook", "#"],
-        ["icon-dribbble", "#"]
-      ]
+    # [[params.about.item]]
+    #   name = "Rob Smith"
+    #   position = "Web Developer"
+    #   description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+    #   img = "person2.jpg"
+    #   alt = "Person2"
+    #   social = [
+    #     ["icon-twitter", "#"],
+    #     ["icon-facebook", "#"],
+    #     ["icon-github", "#"]
+    #   ]
+    #
+    # [[params.about.item]]
+    #   name = "Larry Ben"
+    #   position = "Web Designer"
+    #   description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
+    #   img = "person3.jpg"
+    #   alt = "Person3"
+    #   social = [
+    #     ["icon-twitter", "#"],
+    #     ["icon-facebook", "#"],
+    #     ["icon-dribbble", "#"]
+      # ]
 
   # Counters section
   [params.counters]
-    enable = true
+    enable = false
     title = "Stats"
     background = "full_image_1.jpg"
 
@@ -254,16 +255,16 @@ theme = "hugo-elate-theme"
   # Contact section
   [params.contact]
     enable = true
-    map = true
+    map = false
     title = "Get in touch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "Need help? We're always an email away."
 
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
-        ["icon-phone", "(123) 465-6789"],
-        ["icon-envelope", "info@freehtml5.co"],
-        ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
+        ["icon-home", "The road. We are 100% remote."],
+        ["icon-phone", "(347) 784-6660"],
+        ["icon-envelope", "info@maintainer.io"],
+        ["icon-globe", '<a href="https://maintainer.io" target="_blank">maintainer.io</a>']
       ]
 
     name = "Name"
@@ -275,4 +276,4 @@ theme = "hugo-elate-theme"
   # Footer section
   [params.footer]
     enable = true
-    copyright = '&copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
+    copyright = 'Site licensed under a CC-BY-SA-NC 4.0 Unported License © <a href="https://burntfen.com" target="_blank">Burnt Fen Creative</a> 2017. <br /> Theme originally &copy; Elate Free HTML5 under a CC SA 3.0 License. <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>.'
