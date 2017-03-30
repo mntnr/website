@@ -38,7 +38,7 @@ theme = "hugo-elate-theme"
 
   # Hero section
   [params.hero]
-    title = "Climb above the mountains of open source maintenance"
+    title = "Work in Progress. <br />Climb above the mountains of open source maintenance"
     subtitle = "We help maintain your GitHub projects for you, allowing you more time to focus on what you want"
 
   # Intro section
