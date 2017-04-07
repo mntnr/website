@@ -11,6 +11,8 @@ theme = "hugo-elate-theme"
   author = "Richard Littauer"
   description = "Navigating the mountain of Open Source maintenance work"
   email = "richard@mntnr.io"
+  twitter = "https://twitter.com/richlitt"
+  github = "https://github.com/mntnr"
   # Navigation
   [params.navigation]
     brand = "Maintainer Mountaineer"
