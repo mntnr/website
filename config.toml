@@ -72,11 +72,11 @@ analytics = "UA-4124866-42"
     icon = "icon-graph"
     img = "img_10.jpg"
 
-  [params.intro.video]
+  [params.intro.plasso]
     enable = true
     title = "Ready to destress?"
     text = "Check out our plans"
-    url = "https://vimeo.com/channels/staffpicks/93951774"
+    url = "https://plasso.com/s/KHnLKOSeK1"
 
 
   # Developers section
