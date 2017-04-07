@@ -3,6 +3,7 @@ baseurl = "https://mntnr.io"
 title = "Maintainer Mountaineer"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
+analytics = "UA-4124866-42"
 
 [params]
   custom_css = ["css/custom1.css", "css/custom2.css"]
