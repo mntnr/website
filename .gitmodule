@@ -1,0 +1,3 @@
+[submodule "theme/hugo-elate-theme"]
+	url = https://github.com/RichardLitt/hugo-elate-theme
+
