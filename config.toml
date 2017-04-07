@@ -190,29 +190,27 @@ theme = "hugo-elate-theme"
         ["icon-envelope", "mailto:richard@maintainer.io"]
       ]
 
-    # [[params.about.item]]
-    #   name = "Rob Smith"
-    #   position = "Web Developer"
-    #   description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-    #   img = "person2.jpg"
-    #   alt = "Person2"
-    #   social = [
-    #     ["icon-twitter", "#"],
-    #     ["icon-facebook", "#"],
-    #     ["icon-github", "#"]
-    #   ]
-    #
-    # [[params.about.item]]
-    #   name = "Larry Ben"
-    #   position = "Web Designer"
-    #   description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"
-    #   img = "person3.jpg"
-    #   alt = "Person3"
-    #   social = [
-    #     ["icon-twitter", "#"],
-    #     ["icon-facebook", "#"],
-    #     ["icon-dribbble", "#"]
-      # ]
+    [[params.about.item]]
+      name = "Gabi Ciudin"
+      position = "Developer"
+      description = "Gabi codes from whatever train, bus, or hostel she happens to be in while travelling. She comes from the .NET world, bringing an important closed-source perspective to the team."
+      img = "gabi.jpg"
+      alt = "Gabi Ciudin"
+      social = [
+        ["icon-linkedin", "https://www.linkedin.com/in/gabi-ciudin/"],
+        ["icon-github", "https://github.com/gabiciudin"]
+      ]
+
+    [[params.about.item]]
+      name = "Amna Shamim"
+      position = "Writer"
+      description = "Amna is a freelancer writer, with work in HuffPo, Entrepreneur, and Business Insider. As a writer, she brings a creative eye to the documentation process."
+      img = "amna.jpeg"
+      alt = "Amna Shamim"
+      social = [
+        ["icon-twitter", "https://twitter.com/amnashamimnyc"],
+        ["icon-globe", "http://www.amnashamim.com/"]
+      ]
 
   # Counters section
   [params.counters]
