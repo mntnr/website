@@ -1,3 +1,3 @@
 [submodule "themes/hugo-elate-theme"]
 	path = themes/hugo-elate-theme
-	url = https://github.com/RichardLitt/hugo-elate-theme
+	url = git@github.com:RichardLitt/hugo-elate-theme.git
