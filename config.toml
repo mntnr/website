@@ -2,7 +2,7 @@
 baseurl = "https://mntnr.io"
 title = "Maintainer Mountaineer"
 languageCode = "en-us"
-theme = "hugo-elate-theme"
+theme = "RichardLitt/hugo-elate-theme"
 analytics = "UA-4124866-42"
 
 [params]
