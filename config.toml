@@ -175,15 +175,15 @@ theme = "hugo-elate-theme"
   # About section
   [params.about]
     enable = true
-    title = "About"
-    description = "We're an experienced, diverse team of open source experts."
+    title = "Our Humans"
+    description = "We're an experienced, diverse team of open source coders, writers, and humans."
 
     [[params.about.item]]
       name = "Richard Littauer"
       position = "JavaScript Adventurer"
       description = "Richard is happiest coding from a ski lodge on top of a mountain. He's dedicated to building fantastic READMEs and growing communities."
-      img = "person1.jpg"
-      alt = "Person1"
+      img = "richard.jpg"
+      alt = "Richard Littauer"
       social = [
         ["icon-twitter", "https://twitter.com/richlitt"],
         ["icon-github", "https://github.com/RichardLitt"],
