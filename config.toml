@@ -238,39 +238,39 @@ theme = "hugo-elate-theme"
 
   # Counters section
   [params.counters]
-    enable = false
+    enable = true
     title = "Stats"
     background = "full_image_1.jpg"
 
     [[params.counters.item]]
-      description = "Finished projects"
+      description = "READMEs standardized"
       icon = "icon-briefcase"
       from = 0
-      to = 89
+      to = 700
       interval = 50
       speed = 5000
 
     [[params.counters.item]]
-      description = "Lines of code"
+      description = "GitHub Organizations So Far"
       icon = "icon-code"
       from = 0
-      to = 2343409
+      to = 12
       interval = 50
       speed = 5000
 
     [[params.counters.item]]
-      description = "Cups of coffee"
+      description = "Estimated Cups of coffee"
       icon = "icon-cup"
       from = 0
-      to = 1302
+      to = 1572
       interval = 50
       speed = 5000
 
     [[params.counters.item]]
-      description = "Happy clients"
+      description = "Hypothetical Hours Saved"
       icon = "icon-people"
       from = 0
-      to = 52
+      to = 42000
       interval = 50
       speed = 5000
 
