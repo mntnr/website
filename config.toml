@@ -49,7 +49,7 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Streamline your GitHub"
-    description = "We've built tools to streamline your GitHub repository or organization, making it easier for new users to become great contributors. From contributing.md to standard readmes, we can help your repo shine."
+    description = "We've built a suite of tools to streamline your GitHub repository or organization, making it easier for new users to become great contributors. From contributing.md to standard readmes, we can help your repo shine."
     url = "#"
     button = "Go Open Source"
     icon = "icon-github"
@@ -72,9 +72,9 @@ theme = "hugo-elate-theme"
     img = "img_10.jpg"
 
   [params.intro.video]
-    enable = false
-    title = "Prefer video to text?"
-    icon = "icon-play2"
+    enable = true
+    title = "Ready to destress?"
+    text = "Check out our plans"
     url = "https://vimeo.com/channels/staffpicks/93951774"
 
 
@@ -82,27 +82,27 @@ theme = "hugo-elate-theme"
   [params.developers]
     enable = true
     title = "Solo Developer?"
-    description = "We've got you covered."
+    description = "We've got you covered. Take the weekend off without worrying about your userbase."
 
     [[params.developers.item]]
       title = "GitHub maintenance"
-      description = "We've built tools and processes to help maintain your GitHub repositories and organization, making it easy for newcomers to contribute to your code, and stay on as community members"
+      description = "Our tools and processes will help us maintain your GitHub project. We don't merge your major PRs, but we'll help improve the quality of issues and PRs you do get."
       icon = "icon-github"
 
     [[params.developers.item]]
       title = "Issue Triage"
-      description = "We'll help you triage and manage open issues and pull requests, providing you with copy and templates for recurring questions. Take the stress out of user demands."
+      description = "We'll help you triage and manage open issues and pull requests, providing you with copy and templates for recurring questions. If you have dozens of issues you feel you need to resolve, we'll help you feel like some can wait until later."
       icon = "icon-exclamation-circle"
 
     [[params.developers.item]]
-      title = "Community Dashboards"
-      description = "Track your community over time, to provide data-based feedback about how you can grow and get more open source contributions."
-      icon = "icon-graph"
+      title = "Out of Office"
+      description = "Going away for a long hike in the mountains? No problem. We'll watch your issues and make sure that your contributors know that you're not forgetting them."
+      icon = "icon-sticky-note"
 
     [[params.developers.item]]
-      title = "Open Sourcing"
-      description = "Want to make your project open source, but don't know how? We'll help you modularize the code, and outline a strategy getting people excited about your code"
-      icon = "icon-sign"
+      title = "Defusing Contributor Conflicts"
+      description = "Merged the wrong patch, and now someone is throwing a fit? We're skilled at using non-violent communication with coders; we'll work with you to defuse the situation, taking the stress out of open source demands."
+      icon = "icon-bolt"
 
   # Work section
   # [params.work]
