@@ -138,10 +138,10 @@ theme = "hugo-elate-theme"
       alt = "Person2"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
-      person = 'Chris Nash, Director <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person3.jpg"
-      alt = "Person3"
+      quote = "Richard has helped us identify numerous contribution-smells: where our project structure, onboarding, and contribution guidelines are inhibiting new users and participants from joining."
+      person = 'Simon Vansintjan, Contributor to <a href="http://opensourcedesign.net/" target="_blank">Open Source Design</a>'
+      img = "simon.jpg"
+      alt = "Simon Vansintjan"
 
 
 
