@@ -71,11 +71,33 @@ theme = "hugo-elate-theme"
     icon = "icon-graph"
     img = "img_10.jpg"
 
-  # [params.intro.video]
-  #   enable = false
-  #   title = "Watch the video"
-  #   icon = "icon-play2"
-  #   url = "https://vimeo.com/channels/staffpicks/93951774"
+  [params.intro.video]
+    enable = false
+    title = "Prefer video to text?"
+    icon = "icon-play2"
+    url = "https://vimeo.com/channels/staffpicks/93951774"
+
+
+  # Developers section
+  [params.developers]
+    enable = true
+    title = "Solo Developer?"
+    description = "We've got you covered."
+
+    [[params.developers.item]]
+      title = "GitHub maintenance"
+      description = "We've built tools and processes to help maintain your GitHub repositories and organization, making it easy for newcomers to contribute to your code, and stay on as community members"
+      icon = "icon-github"
+
+    [[params.developers.item]]
+      title = "Issue Triage"
+      description = "We'll help you triage and manage open issues and pull requests, providing you with copy and templates for recurring questions. Take the stress out of user demands."
+      icon = "icon-exclamation-circle"
+
+    [[params.developers.item]]
+      title = "Community Dashboards"
+      description = "Track your community over time, to provide data-based feedback about how you can grow and get more open source contributions."
+      icon = "icon-graph"
 
 
   # Work section
