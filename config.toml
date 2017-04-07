@@ -139,9 +139,9 @@ analytics = "UA-4124866-42"
 
     [[params.testimonials.item]]
       quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;"
-      person = 'John Doe, Senior UI <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> <span class="subtext">Creative Director</span>'
-      img = "person2.jpg"
-      alt = "Person2"
+      person = 'Juan Benet, <a href="https://ipfs.io" target="_blank">Protocol Labs</a> <span class="subtext">Founder</span>'
+      img = "jbenet.png"
+      alt = "Juan Benet of Protocol Labs"
 
     [[params.testimonials.item]]
       quote = "Richard has helped us identify numerous contribution-smells: where our project structure, onboarding, and contribution guidelines are inhibiting new users and participants from joining."
