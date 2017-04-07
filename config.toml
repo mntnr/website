@@ -40,7 +40,7 @@ theme = "hugo-elate-theme"
 
   # Hero section
   [params.hero]
-    title = "Work in Progress. <br />Climb above the mountains of open source maintenance"
+    title = "Scale Open Source Maintenance"
     subtitle = "We help maintain your GitHub projects for you, allowing you more time to focus on what you want"
 
   # Intro section
@@ -48,8 +48,8 @@ theme = "hugo-elate-theme"
   [params.intro]
 
   [[params.intro.item]]
-    title = "Plan"
-    description = ""
+    title = "Streamline your GitHub"
+    description = "We've built tools to streamline your GitHub repository or organization, making it easier for new users to become great contributors. From contributing.md to standard readmes, we can help your repo shine."
     url = "#"
     button = "Go Open Source"
     icon = "icon-github"
@@ -57,15 +57,15 @@ theme = "hugo-elate-theme"
 
   [[params.intro.item]]
     title = "Got Issues?"
-    description = "We'll help you triage and manage open issues and pull requests, providing you with copy and templates for recurring questions. Take the stress out of user demands."
+    description = "We'll help you triage and manage your issues and pull requests, providing you with empathetic copy and templates for recurring questions. And we'll pen human responses when you don't want to, letting you sleep easier."
     url = "#"
     button = "See our plans"
-    icon = "icon-exclamation"
+    icon = "icon-exclamation-circle"
     img = "img_8.jpg"
 
   [[params.intro.item]]
     title = "Community Dashboard"
-    description = "Track your community over time, to provide data-based feedback about how you can grow and get more open source contributions."
+    description = "Use our dashboard to track your community over time, to provide data-based feedback about how you can grow, get more open source contributions, and spend less time maintaining and more time creating."
     url = "#"
     button = "Why us?"
     icon = "icon-graph"
