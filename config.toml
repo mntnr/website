@@ -154,8 +154,8 @@ theme = "hugo-elate-theme"
     # description = "Some feedback from people who've worked with us."
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
-      person = 'Roberta Voulon, <a href="http://www.pitonneux.com/" target="_blank">Les Pitonneux</a> <span class="subtext">Founder</span>'
+      quote = "Richard makes open source contribution accessible to developers of all levels in a very direct and personal way, helping people from our community find a project they can start contributing to right away. He's helping bring diversity and inclusion to OSS communities, while simultaneously lowering the barrier of entry to people from a wide variety of backgrounds."
+      person = 'Roberta Voulon, General Director of non-profit <a href="http://www.pitonneux.com/" target="_blank">Incubateur de talents Les Pitonneux</a>'
       img = "roberta.jpg"
       alt = "Roberta Voulon of Les Pitonneux"
 
