@@ -279,12 +279,12 @@ theme = "hugo-elate-theme"
     enable = true
     map = false
     title = "Get in touch"
-    description = "Need help? We're always an email away."
+    description = "Want more information? We're always an email away."
 
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "The road. We are 100% remote."],
-        ["icon-envelope", "info@maintainer.io"],
+        ["icon-envelope", "richard@maintainer.io"],
         ["icon-globe", '<a href="https://maintainer.io" target="_blank">maintainer.io</a>']
       ]
 
@@ -297,4 +297,4 @@ theme = "hugo-elate-theme"
   # Footer section
   [params.footer]
     enable = true
-    copyright = 'Site licensed under a CC-BY-SA-NC 4.0 Unported License © <a href="https://burntfen.com" target="_blank">Burnt Fen Creative</a> 2017. <br /> Theme originally &copy; Elate Free HTML5 under a CC SA 3.0 License. <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>.'
+    copyright = 'Site licensed under a CC-BY-SA-NC 4.0 Unported License © <a href="https://burntfen.com" target="_blank">Burnt Fen Creative</a> 2017. <br /> Theme modified by <a href="https://github.com/RichardLitt" target="_blank" >@RichardLitt</a>, with original &copy; Elate Free HTML5 under a CC SA 3.0 License, with Hugo port by <a href="https://github.com/saey55" target="_blank">@saey55</a>.'
