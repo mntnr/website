@@ -143,32 +143,36 @@ analytics = "UA-4124866-42"
       alt = "Simon Vansintjan"
 
 
-
-
   # Services section
   [params.services]
     enable = true
     title = "Larger Organization?"
-    description = "We can help you maintain and market your Open Source organization."
+    description = "We can help you maintain and market your Open Source presence. Don't scramble to find great devs: build them by having a welcoming, active, and maintained code community."
 
-    [[params.services.item]]
-      title = "GitHub maintenance"
-      description = "We've built tools and processes to help maintain your GitHub repositories and organization, making it easy for newcomers to contribute to your code, and stay on as community members"
-      icon = "icon-github"
-
-    [[params.services.item]]
-      title = "Issue Triage"
-      description = "We'll help you triage and manage open issues and pull requests, providing you with copy and templates for recurring questions. Take the stress out of user demands."
-      icon = "icon-exclamation-circle"
 
     [[params.services.item]]
       title = "Community Dashboards"
-      description = "Track your community over time, to provide data-based feedback about how you can grow and get more open source contributions."
+      description = "Wondering if Open Source really helps? Measure it! Track your community over time. Use our data-based feedback about how your community is growing to get more open source contributions, more eyes on your site, and ultimately more great developers who want to work with you."
       icon = "icon-graph"
 
     [[params.services.item]]
+      title = "GitHub maintenance"
+      description = "We've built tools and processes to help your developers maintain your GitHub organization as a whole. We specialize in user flow over large organizations. This saves your developers time and money, and makes it easy for newcomers to contribute to your code, and stay on as community members."
+      icon = "icon-github"
+
+    [[params.services.item]]
+      title = "Contributing Docs"
+      description = "To have a great community, you need to have great contributing documentation. Tell newcomers how to get involved, what steps they need to take to contribute, and that they are welcome."
+      icon = "icon-exclamation-circle"
+
+    [[params.services.item]]
+      title = "Licensing"
+      description = "Not sure what license to go with? Worried about intellectual property? Call a lawyer. But I can give you advice about how to standardize licensing and best practices around making sure your communities contributions conform to your licensing protocol."
+      icon = "icon-exclamation-circle"
+
+    [[params.services.item]]
       title = "Open Sourcing"
-      description = "Want to make your project open source, but don't know how? We'll help you modularize the code, and outline a strategy getting people excited about your code"
+      description = "Want to make your project open source, but don't know how? We'll help you modularize the code, and outline a strategy for getting people excited about your code."
       icon = "icon-sign"
 
   # About section
