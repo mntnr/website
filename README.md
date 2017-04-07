@@ -6,7 +6,7 @@ This website is a work in progress. Please open an issue if you have questions.
 
 ## Install
 
-Use Hugo.
+Use Hugo. Then cry a lot.
 
 ## Usage
 
