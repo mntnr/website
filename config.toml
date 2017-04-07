@@ -99,6 +99,10 @@ theme = "hugo-elate-theme"
       description = "Track your community over time, to provide data-based feedback about how you can grow and get more open source contributions."
       icon = "icon-graph"
 
+    [[params.developers.item]]
+      title = "Open Sourcing"
+      description = "Want to make your project open source, but don't know how? We'll help you modularize the code, and outline a strategy getting people excited about your code"
+      icon = "icon-sign"
 
   # Work section
   # [params.work]
