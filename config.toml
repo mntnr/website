@@ -260,7 +260,6 @@ theme = "hugo-elate-theme"
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "The road. We are 100% remote."],
-        ["icon-phone", "(347) 784-6660"],
         ["icon-envelope", "info@maintainer.io"],
         ["icon-globe", '<a href="https://maintainer.io" target="_blank">maintainer.io</a>']
       ]
