@@ -2,3 +2,21 @@
   background-image: url("../images/linas.jpg");
   background-size: cover;
 }
+
+.health-check hr {
+  width: 50%;
+  margin: 15vh 0px;
+}
+
+#health-orgs {
+  text-align: right;
+}
+
+.btn.btn-devexp {
+  background: #3f95ea;
+  padding: 20px 30px;
+}
+
+.more-info {
+  margin-top: 5vh;
+}

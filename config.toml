@@ -39,6 +39,11 @@ analytics = "UA-4124866-42"
     #  name = "External link"
     #  weight = 10
 
+  # Plasso
+  [params.plasso]
+  marketUrl = "https://plasso.com/s/KHnLKOSeK1"
+  marketText = "Book a DevExp Audit"
+
   # Hero section
   [params.hero]
     title = "Scale Open Source Maintenance"
@@ -74,9 +79,9 @@ analytics = "UA-4124866-42"
 
   [params.intro.plasso]
     enable = true
-    title = "Ready to destress?"
-    text = "Check out our plans"
-    url = "https://plasso.com/s/KHnLKOSeK1"
+    title = "Ready to climb?"
+    text = "Sign Up Here"
+    url = "https://plasso.com/s/RMPMGYmBER"
 
 
   # Developers section
@@ -84,6 +89,8 @@ analytics = "UA-4124866-42"
     enable = true
     title = "Solo Developer?"
     description = "We've got you covered. Take the weekend off without worrying about your userbase."
+    audit = "Just want a health check?"
+    auditText = "Sign up for developer experience audit. We'll take a look at your repo and let know what you can improve in one go."
 
     [[params.developers.item]]
       title = "GitHub maintenance"
@@ -122,7 +129,7 @@ analytics = "UA-4124866-42"
   [params.testimonials]
     enable = true
     title = "Testimonials"
-    # description = "Some feedback from people who've worked with us."
+    description = "Read what people have said about our founder and open source."
 
     [[params.testimonials.item]]
       quote = "Richard makes open source contribution accessible to developers of all levels in a very direct and personal way, helping people from our community find a project they can start contributing to right away. He's helping bring diversity and inclusion to OSS communities, while simultaneously lowering the barrier of entry to people from a wide variety of backgrounds."
@@ -163,17 +170,17 @@ analytics = "UA-4124866-42"
     [[params.services.item]]
       title = "Contributing Docs"
       description = "To have a great community, you need to have great contributing documentation. Tell newcomers how to get involved, what steps they need to take to contribute, and that they are welcome."
-      icon = "icon-exclamation-circle"
+      icon = "icon-users"
 
     [[params.services.item]]
       title = "Licensing"
       description = "Not sure what license to go with? Worried about intellectual property? Call a lawyer. But I can give you advice about how to standardize licensing and best practices around making sure your communities contributions conform to your licensing protocol."
-      icon = "icon-exclamation-circle"
+      icon = "icon-copyright"
 
     [[params.services.item]]
       title = "Open Sourcing"
       description = "Want to make your project open source, but don't know how? We'll help you modularize the code, and outline a strategy for getting people excited about your code."
-      icon = "icon-sign"
+      icon = "icon-question"
 
   # About section
   [params.about]
@@ -257,8 +264,8 @@ analytics = "UA-4124866-42"
   [params.contact]
     enable = true
     map = false
-    title = "Get in touch"
-    description = "Want more information? We're always an email away."
+    title = "Ready to reach new heights?"
+    description = "Want a custom solution?<br /> Is your organization larger than twenty repositories? <br /> Get in touch. We're always an email away."
 
     # Available icons: http://simplelineicons.com/
     details = [
