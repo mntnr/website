@@ -265,7 +265,7 @@ analytics = "UA-4124866-42"
     enable = true
     map = false
     title = "Ready to reach new heights?"
-    description = "Want a custom solution?<br /> Is your organization larger than twenty repositories? <br /> Get in touch. We're always an email away."
+    description = "Want a custom solution?<br /> Is your organization larger than fifteen repositories? <br /> Get in touch. We're always an email away."
 
     # Available icons: http://simplelineicons.com/
     details = [
