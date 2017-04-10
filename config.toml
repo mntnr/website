@@ -138,7 +138,7 @@ analytics = "UA-4124866-42"
       alt = "Roberta Voulon of Les Pitonneux"
 
     [[params.testimonials.item]]
-      quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;"
+      quote = "Richard's efforts dramatically improved our community, and saved significant amounts of time. He overhauled the GitHub org structure for IPFS and several other open source projects. He created standards and tooling to ensure good open source hygiene, to improve the experience of all contributors, and to save us time."
       person = 'Juan Benet, <a href="https://ipfs.io" target="_blank">Protocol Labs</a> <span class="subtext">Founder</span>'
       img = "jbenet.png"
       alt = "Juan Benet of Protocol Labs"
