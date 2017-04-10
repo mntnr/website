@@ -189,18 +189,6 @@ analytics = "UA-4124866-42"
     description = "We're an experienced, diverse team of open source coders, writers, and humans."
 
     [[params.about.item]]
-      name = "Richard Littauer"
-      position = "JavaScript Adventurer"
-      description = "Richard is happiest coding from a ski lodge on top of a mountain. He's dedicated to building fantastic READMEs and growing communities."
-      img = "richard.jpg"
-      alt = "Richard Littauer"
-      social = [
-        ["icon-twitter", "https://twitter.com/richlitt"],
-        ["icon-github", "https://github.com/RichardLitt"],
-        ["icon-envelope", "mailto:richard@maintainer.io"]
-      ]
-
-    [[params.about.item]]
       name = "Gabi Ciudin"
       position = "Developer"
       description = "Gabi codes from whatever train, bus, or hostel she happens to be in while travelling. She comes from the .NET world, bringing an important closed-source perspective to the team."
@@ -220,6 +208,30 @@ analytics = "UA-4124866-42"
       social = [
         ["icon-twitter", "https://twitter.com/amnashamimnyc"],
         ["icon-globe", "http://www.amnashamim.com/"]
+      ]
+
+    [[params.about.item]]
+      name = "Lianna Patch"
+      position = "Writer"
+      description = "Lianna is a conversion copywriter and comedian who blends marketing psychology and customer research into clear, effective copy. She’s behind the email templates and microcopy that make your users feel taken care of."
+      img = "lianna.png"
+      alt = "Lianna Patch"
+      social = [
+        ["icon-twitter", "https://twitter.com/punchlinecopy"],
+        ["icon-globe", "http://www.punchlinecopy.com"],
+        ["icon-globe", "http://www.snapcopy.co"]
+      ]
+
+    [[params.about.item]]
+      name = "Richard Littauer"
+      position = "Developer"
+      description = "Richard is happiest coding from a ski lodge on top of a mountain. He's dedicated to building fantastic READMEs and growing communities."
+      img = "richard.jpg"
+      alt = "Richard Littauer"
+      social = [
+        ["icon-twitter", "https://twitter.com/richlitt"],
+        ["icon-github", "https://github.com/RichardLitt"],
+        ["icon-envelope", "mailto:richard@maintainer.io"]
       ]
 
   # Counters section
