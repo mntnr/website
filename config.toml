@@ -223,6 +223,17 @@ analytics = "UA-4124866-42"
       ]
 
     [[params.about.item]]
+      name = "Kayli Barth"
+      position = "Writer"
+      description = "Kayli Barth is a freelance nomad and full-time dreamer. She helps small businesses and marketing agencies with their social media campaigns, and fulfills every Canadian stereotype you can think of. Will run for beer."
+      img = "kayli.jpg"
+      alt = "Kayli Barth"
+      social = [
+        ["icon-twitter", "https://twitter.com/kaylibarth"],
+        ["icon-globe", "http://younggunscreative.com/"]
+      ]
+
+    [[params.about.item]]
       name = "Richard Littauer"
       position = "Developer"
       description = "Richard is happiest coding from a ski lodge on top of a mountain. He's dedicated to building fantastic READMEs and growing communities."
