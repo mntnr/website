@@ -16,11 +16,11 @@ analytics = "UA-4124866-42"
   github = "https://github.com/mntnr"
   # Navigation
   [params.navigation]
-    brand = "Maintainer.io"
+    brand = "Maintainer Mountaineer"
     home = "Home"
-    developers = "Developers"
-    testimonials = "Testimonials"
-    services = "Organizations"
+    developers = "Devs"
+    testimonials = "Quotes"
+    services = "Orgs"
     about = "About"
     contact = "Contact"
 
