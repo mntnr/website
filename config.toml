@@ -211,7 +211,7 @@ analytics = "UA-4124866-42"
       name = "Amna Shamim"
       position = "Writer"
       description = "Amna is a freelancer writer, with work in HuffPo, Entrepreneur, and Business Insider. As a writer, she brings a creative eye to the documentation process."
-      img = "amna.jpeg"
+      img = "amna.jpg"
       alt = "Amna Shamim"
       social = [
         ["icon-twitter", "https://twitter.com/amnashamimnyc"],
