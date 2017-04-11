@@ -1,0 +1,25 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "> The basic website for… https://mntnr.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mntnr/website.git"
+  },
+  "keywords": [],
+  "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
+  "license": "=",
+  "bugs": {
+    "url": "https://github.com/mntnr/website/issues"
+  },
+  "homepage": "https://github.com/mntnr/website#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.2.0",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}

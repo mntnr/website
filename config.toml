@@ -132,21 +132,21 @@ analytics = "UA-4124866-42"
     description = "Read what people have said about our founder and open source."
 
     [[params.testimonials.item]]
+      quote = "Richard's efforts dramatically improved our community, and saved significant amounts of time. He overhauled the GitHub org structure for IPFS and several other open source projects. He created standards and tooling to ensure good open source hygiene, to improve the experience of all contributors, and to save us time."
+      person = 'Juan Benet, <a href="https://ipfs.io" target="_blank">Protocol Labs</a> <span class="subtext">Founder</span>'
+      img = "jbenet.jpg"
+      alt = "Juan Benet of Protocol Labs"
+
+    [[params.testimonials.item]]
       quote = "Richard makes open source contribution accessible to developers of all levels in a very direct and personal way, helping people from our community find a project they can start contributing to right away. He's helping bring diversity and inclusion to OSS communities, while simultaneously lowering the barrier of entry to people from a wide variety of backgrounds."
       person = 'Roberta Voulon, General Director of non-profit <a href="http://www.pitonneux.com/" target="_blank">Incubateur de talents Les Pitonneux</a>'
       img = "roberta.jpg"
       alt = "Roberta Voulon of Les Pitonneux"
 
     [[params.testimonials.item]]
-      quote = "Richard's efforts dramatically improved our community, and saved significant amounts of time. He overhauled the GitHub org structure for IPFS and several other open source projects. He created standards and tooling to ensure good open source hygiene, to improve the experience of all contributors, and to save us time."
-      person = 'Juan Benet, <a href="https://ipfs.io" target="_blank">Protocol Labs</a> <span class="subtext">Founder</span>'
-      img = "jbenet.png"
-      alt = "Juan Benet of Protocol Labs"
-
-    [[params.testimonials.item]]
       quote = "Richard has helped us identify numerous contribution-smells: where our project structure, onboarding, and contribution guidelines are inhibiting new users and participants from joining."
       person = 'Simon Vansintjan, Contributor to <a href="http://opensourcedesign.net/" target="_blank">Open Source Design</a>'
-      img = "simon.jpg"
+      img = "simon.jpeg"
       alt = "Simon Vansintjan"
 
 
@@ -214,7 +214,7 @@ analytics = "UA-4124866-42"
       name = "Lianna Patch"
       position = "Writer"
       description = "Lianna is a conversion copywriter and comedian who blends marketing psychology and customer research into clear, effective copy. She’s behind the email templates and microcopy that make your users feel taken care of."
-      img = "lianna.png"
+      img = "lianna.jpg"
       alt = "Lianna Patch"
       social = [
         ["icon-twitter", "https://twitter.com/punchlinecopy"],
