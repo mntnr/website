@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "https://mntnr.io/"
+baseurl = "https://maintainer.io/"
 title = "Maintainer Mountaineer"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
