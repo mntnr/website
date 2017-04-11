@@ -176,7 +176,7 @@ analytics = "UA-4124866-42"
 
     [[params.services.item]]
       title = "Licensing"
-      description = "Not sure what license to go with? Worried about intellectual property? Call a lawyer. But I can give you advice about how to standardize licensing and best practices around making sure your communities contributions conform to your licensing protocol."
+      description = "Not sure what license to go with? Worried about intellectual property? Call a lawyer. But we can give you advice about how to standardize licensing and best practices around making sure your communities contributions conform to your licensing protocol."
       icon = "icon-copyright"
 
     [[params.services.item]]
