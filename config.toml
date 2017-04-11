@@ -62,8 +62,8 @@ analytics = "UA-4124866-42"
   [params.intro]
 
   [[params.intro.item]]
-    title = "Streamline your GitHub"
-    description = "We've built a suite of tools to streamline your GitHub project or organization docs, making it easier for new users to become great contributors. Don't scramble to find great devs: build them by having a welcoming community."
+    title = "Make Your GitHub Awesome"
+    description = "We've built a suite of tools to overhaul your GitHub project or organization docs, making it easier for new users to become great contributors. Don't scramble to find great devs: build them by having a welcoming community."
     url = "#"
     icon = "icon-github"
 
@@ -96,13 +96,18 @@ analytics = "UA-4124866-42"
     auditText = "Sign up for developer experience audit. We'll take a look at your repo and let know what you can improve in one go."
 
     [[params.developers.item]]
+      title = "Standard README"
+      description = "Does your README have an install section? A Usage secton? How about a mention of API methods? Contribute? A good lede and description? We have a checklist we'll go over to make it look great."
+      icon = "icon-book"
+
+    [[params.developers.item]]
       title = "GitHub maintenance"
-      description = "Our tools and processes will help us maintain your GitHub project. We don't merge your major PRs, but we'll help improve the quality of issues and PRs you do get."
+      description = "Our tools and processes will help us maintain your GitHub project. We don't merge your major PRs, but we'll help improve the quality of issues and PRs you do get, by making your documentation tighter and easier to use."
       icon = "icon-github"
 
     [[params.developers.item]]
       title = "Issue Triage"
-      description = "We'll help you triage and manage open issues and pull requests, providing you with copy and templates for recurring questions. If you have dozens of issues you feel you need to resolve, we'll help you feel like some can wait until later."
+      description = "We'll help you sort and manage open issues and pull requests, providing you with copy and templates for recurring questions. If you have dozens of issues you feel you need to resolve, we'll help you feel like some can wait until later."
       icon = "icon-exclamation-circle"
 
     [[params.developers.item]]
