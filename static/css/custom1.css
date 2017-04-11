@@ -32,3 +32,14 @@
 a.navbar-brand {
   color: #52d3aa !important;
 }
+
+@media (min-width: 800px) {
+  #fh5co-intro .fh5co-block {
+    width: 31%;
+    margin-right: 2.50%;
+  }
+
+  #fh5co-intro .fh5co-block:last-of-type {
+    margin-right: 0;
+  }
+}
