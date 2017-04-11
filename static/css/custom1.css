@@ -24,3 +24,11 @@
 .person-container {
   padding-top: 50px;
 }
+
+.cta {
+  padding-top: 50px;
+}
+
+a.navbar-brand {
+  color: #52d3aa !important;
+}

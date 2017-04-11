@@ -41,8 +41,10 @@ analytics = "UA-4124866-42"
 
   # Plasso
   [params.plasso]
-  marketUrl = "https://plasso.com/s/KHnLKOSeK1"
-  marketText = "Book a DevExp Audit"
+    enable = true
+    marketLede = "Just want a second opinion?"
+    marketUrl = "https://plasso.com/s/KHnLKOSeK1"
+    marketText = "Book a DevExp Audit"
 
   # Hero section
   [params.hero]
