@@ -3,6 +3,12 @@
   background-size: cover;
 }
 
+img.nav-logo {
+  height: 200%;
+  margin-top: -8px;
+  display: inline-block;
+}
+
 .health-check hr {
   width: 50%;
   margin: 15vh 0px;
