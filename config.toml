@@ -55,7 +55,7 @@ analytics = "UA-4124866-42"
   # Hero section
   [params.hero]
     title = "Scale Open Source Maintenance"
-    subtitle = "We help maintain your GitHub projects for you, allowing you more time to focus on what you want"
+    subtitle = "We help maintain your GitHub projects for you, giving you more time to focus on what your code."
 
   # Intro section
   # Available icons: http://simplelineicons.com/
