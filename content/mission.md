@@ -9,7 +9,7 @@ So you've started an open source project. Got your own repos on github. Great. Y
 
 But then your project gets 1000 stars. You start having issues every day. And now, you're even tasked with maintaining an open source codebase from someone who left your company.
 
-This is the invisible problem with Open Source. It's just as easy to start as it is difficult to maintain.
+This is the invisible problem with Open Source projects.  It's really easy to start. And when your project becomes popular, it is really, really hard to maintain.
 
 And the toughest part is that there is no quick-fix solution. As Nolan Lawson wrote in "What it feels like to be an open-source maintainer”: this is not just a technical problem; it's a social problem. There's not an app out there that can you can use to figure out how to scale your work, or how to outsource maintenance
 
