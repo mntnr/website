@@ -120,6 +120,9 @@ analytics = "UA-4124866-42"
       description = "Merged the wrong patch, and now someone is throwing a fit? We're skilled at using non-violent communication with coders; we'll work with you to defuse the situation, taking the stress out of open source demands."
       icon = "icon-bolt"
 
+  [params.organization]
+        auditText = "Sign up for developer experience audit. We'll take a look at your organization and let you know what your devs can improve quickly."
+
   # Work section
   # [params.work]
   #   enable = false
@@ -301,7 +304,7 @@ analytics = "UA-4124866-42"
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "The road. We are 100% remote."],
-        ["icon-envelope", "richard@maintainer.io"],
+        ["icon-envelope", "info@maintainer.io"],
         ["icon-globe", '<a href="https://maintainer.io" target="_blank">maintainer.io</a>']
       ]
 
