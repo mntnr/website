@@ -82,7 +82,7 @@ analytics = "UA-4124866-42"
   [params.intro.plasso]
     enable = true
     title = "Ready to climb?"
-    text = "Sign Up Here"
+    text = "Choose Maintenance Plan"
     url = "https://plasso.com/s/RMPMGYmBER"
 
 
