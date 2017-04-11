@@ -50,7 +50,7 @@ analytics = "UA-4124866-42"
     enable = true
     marketLede = "Just want a second opinion?"
     marketUrl = "https://plasso.com/s/KHnLKOSeK1"
-    marketText = "Book a DevExp Audit"
+    marketText = "Get a DevExp Audit"
 
   # Hero section
   [params.hero]
@@ -82,7 +82,7 @@ analytics = "UA-4124866-42"
   [params.intro.plasso]
     enable = true
     title = "Ready to climb?"
-    text = "Choose Maintenance Plan"
+    text = "Maintenance Plans"
     url = "https://plasso.com/s/RMPMGYmBER"
 
 
@@ -97,7 +97,7 @@ analytics = "UA-4124866-42"
 
     [[params.developers.item]]
       title = "Standard README"
-      description = "Does your README have an install section? A Usage secton? How about a mention of API methods? Contribute? A good lede and description? We have a checklist we'll go over to make it look great."
+      description = "Does your README have an install section? A Usage secton? How about a mention of API methods? Contribute? A good lede and description? We have a checklist we'll go over to make it look great. We'll even review your README now for free."
       icon = "icon-book"
 
     [[params.developers.item]]
@@ -111,14 +111,14 @@ analytics = "UA-4124866-42"
       icon = "icon-exclamation-circle"
 
     [[params.developers.item]]
-      title = "Out of Office"
-      description = "Going away for a long hike in the mountains? No problem. We'll watch your issues and make sure that your contributors know that you're not forgetting them."
-      icon = "icon-sticky-note"
-
-    [[params.developers.item]]
       title = "Defusing Contributor Conflicts"
       description = "Merged the wrong patch, and now someone is throwing a fit? We're skilled at using non-violent communication with coders; we'll work with you to defuse the situation, taking the stress out of open source demands."
       icon = "icon-bolt"
+
+    [[params.developers.item]]
+      title = "Out of Office"
+      description = "Going away for a long hike in the mountains? No problem. We'll watch your issues and make sure that your contributors know that you're not forgetting them."
+      icon = "icon-sticky-note"
 
 
   # Work section
@@ -327,7 +327,7 @@ analytics = "UA-4124866-42"
     enable = true
     map = false
     title = "Ready to reach new heights?"
-    description = "Need a custom solution?<br /> Is your organization larger than fifteen repositories? <br /> Get in touch. We're always an email away."
+    description = "Want a free README overhaul?<br ?>Need a custom solution?<br /> Is your organization larger than fifteen repositories? <br /><br /> Get in touch. We're always an email away."
 
     # Available icons: http://simplelineicons.com/
     details = [
