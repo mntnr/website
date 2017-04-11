@@ -63,27 +63,21 @@ analytics = "UA-4124866-42"
 
   [[params.intro.item]]
     title = "Streamline your GitHub"
-    description = "We've built a suite of tools to streamline your GitHub project or organization, making it easier for new users to become great contributors. From contributing.md to standard readmes, we can help your repositories shine."
+    description = "We've built a suite of tools to streamline your GitHub project or organization docs, making it easier for new users to become great contributors. Don't scramble to find great devs: build them by having a welcoming community."
     url = "#"
-    button = "Go Open Source"
     icon = "icon-github"
-    img = "img_7.jpg"
 
   [[params.intro.item]]
     title = "Got Issues?"
-    description = "We'll help you triage and manage your issues and pull requests, providing you with empathetic copy and templates for recurring questions. And we'll pen human responses when you don't want to, letting you sleep easier."
+    description = "We'll help you sort and manage your issues and pull requests, providing you with empathetic copy and templates for recurring questions. And we'll pen human responses when you don't want to, letting you sleep easier."
     url = "#"
-    button = "See our plans"
     icon = "icon-exclamation-circle"
-    img = "img_8.jpg"
 
   [[params.intro.item]]
     title = "Community Dashboard"
     description = "Use our dashboard to track your community over time, to provide data-based feedback about how you can grow, get more open source contributions, and spend less time maintaining and more time creating."
     url = "#"
-    button = "Why us?"
     icon = "icon-graph"
-    img = "img_10.jpg"
 
   [params.intro.plasso]
     enable = true
