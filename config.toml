@@ -11,9 +11,15 @@ analytics = "UA-4124866-42"
   # Meta
   author = "Richard Littauer"
   description = "Navigating the mountain of Open Source maintenance work"
-  email = "richard@mntnr.io"
+  email = "info@maintainer.io"
   twitter = "https://twitter.com/richlitt"
   github = "https://github.com/mntnr"
+
+  # Sidebar
+  [params.sidebar]
+    avatar = "logo/mntnr.png"
+
+
   # Navigation
   [params.navigation]
     brand = "Maintainer Mountaineer"
