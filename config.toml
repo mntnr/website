@@ -122,17 +122,45 @@ analytics = "UA-4124866-42"
 
 
   # Work section
-  # [params.work]
-  #   enable = false
-  #   title = "Work"
-  #   description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-  #   footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
-  #
-  #   [[params.work.row]]
-  #     img = "work_1.jpg"
-  #     alt = "Image2"
-  #     title = "Project 1"
-  #     subtitle = "Branding"
+  [params.pricing]
+    enable = false
+    title = "Pricing"
+    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
+
+    [[params.pricing.row]]
+      title = "MAINTAINER MOUNTAINEER"
+      subtitle = "Get access to our members-only area with up-to-date guides on best practices, example templates for your project, and a recap each month of what we've learned."
+
+    [[params.pricing.row]]
+      img = "work_1.jpg"
+      alt = "Image2"
+      title = "Repository Maintenance (For Great Good)"
+      subtitle = "After an initial audit and overhaul, we'll maintain your repository by helping with triaging, by providing templates, and with human responses. This is for charities and non-profit repositories."
+
+    [[params.pricing.row]]
+      img = "work_1.jpg"
+      alt = "Image2"
+      title = "Repository Maintenance"
+      subtitle = "After an initial audit and overhaul of your repository, we'll be on call to help you maintain your community issues and pull requests. This involves templates, human responses, and triaging."
+
+    [[params.pricing.row]]
+      img = "work_1.jpg"
+      alt = "Image2"
+      title = "Organization Maintenance (Up to 5 Repos)"
+      subtitle = "After an initial audit and overhaul, for an organization with less than five repos, we'll maintain the entire organization, helping with issue response, triaging, and general upkeep."
+
+    [[params.pricing.row]]
+      img = "work_1.jpg"
+      alt = "Image2"
+      title = "Organization Maintenance (Up to 10 Repos)"
+      subtitle = "After an initial audit and overhaul, for an organization with less than 10 repos, we'll maintain the entire organization, helping with issue response, triaging, and general upkeep."
+
+    [[params.pricing.row]]
+      img = "work_1.jpg"
+      alt = "Image2"
+      title = "Organization Maintenance (Up to 15 Repos)"
+      subtitle = "After an initial audit and overhaul, for an organization with less than 25 repos, we'll maintain the entire organization, helping with issue response, triaging, and general upkeep."
 
   # Testimonials section
   [params.testimonials]
