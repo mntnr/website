@@ -26,7 +26,7 @@ analytics = "UA-4124866-42"
     home = "Home"
     developers = "Devs"
     testimonials = "Quotes"
-    services = "Orgs"
+    organizations = "Orgs"
     about = "About"
     contact = "Contact"
 
@@ -55,7 +55,7 @@ analytics = "UA-4124866-42"
   # Hero section
   [params.hero]
     title = "Scale Open Source Maintenance"
-    subtitle = "We help maintain your GitHub projects for you, giving you more time to focus on what your code."
+    subtitle = "Whether you're a developer or an organization, we help maintain your GitHub projects, letting you focus on what you really want."
 
   # Intro section
   # Available icons: http://simplelineicons.com/
@@ -63,7 +63,7 @@ analytics = "UA-4124866-42"
 
   [[params.intro.item]]
     title = "Streamline your GitHub"
-    description = "We've built a suite of tools to streamline your GitHub repository or organization, making it easier for new users to become great contributors. From contributing.md to standard readmes, we can help your repo shine."
+    description = "We've built a suite of tools to streamline your GitHub project or organization, making it easier for new users to become great contributors. From contributing.md to standard readmes, we can help your repositories shine."
     url = "#"
     button = "Go Open Source"
     icon = "icon-github"
@@ -96,7 +96,8 @@ analytics = "UA-4124866-42"
   [params.developers]
     enable = true
     title = "Solo Developer?"
-    description = "We've got you covered. Take the weekend off without worrying about your userbase."
+    description = "We've got you covered. Take the weekend off without worrying about your userbase. <br /><br /> Maintaining a ton of repos? Look at the Organization plans below."
+
     audit = "Just want a health check?"
     auditText = "Sign up for developer experience audit. We'll take a look at your repo and let know what you can improve in one go."
 
@@ -120,8 +121,6 @@ analytics = "UA-4124866-42"
       description = "Merged the wrong patch, and now someone is throwing a fit? We're skilled at using non-violent communication with coders; we'll work with you to defuse the situation, taking the stress out of open source demands."
       icon = "icon-bolt"
 
-  [params.organization]
-        auditText = "Sign up for developer experience audit. We'll take a look at your organization and let you know what your devs can improve quickly."
 
   # Work section
   # [params.work]
@@ -161,34 +160,36 @@ analytics = "UA-4124866-42"
       alt = "Simon Vansintjan"
 
 
-  # Services section
-  [params.services]
+  # Organization section
+  [params.organizations]
     enable = true
     title = "Larger Organization?"
     description = "We can help you maintain and market your Open Source presence. Don't scramble to find great devs: build them by having a welcoming, active, and maintained code community."
 
+    auditText = "Sign up for developer experience audit. We'll take a look at your organization and let you know what your devs can improve quickly."
 
-    [[params.services.item]]
+
+    [[params.organizations.item]]
       title = "Community Dashboards"
       description = "Wondering if Open Source really helps? Measure it! Track your community over time. Use our data-based feedback about how your community is growing to get more open source contributions, more eyes on your site, and ultimately more great developers who want to work with you."
       icon = "icon-graph"
 
-    [[params.services.item]]
+    [[params.organizations.item]]
       title = "GitHub maintenance"
       description = "We've built tools and processes to help your developers maintain your GitHub organization as a whole. We specialize in user flow over large organizations. This saves your developers time and money, and makes it easy for newcomers to contribute to your code, and stay on as community members."
       icon = "icon-github"
 
-    [[params.services.item]]
+    [[params.organizations.item]]
       title = "Contributing Docs"
       description = "To have a great community, you need to have great contributing documentation. Tell newcomers how to get involved, what steps they need to take to contribute, and that they are welcome."
       icon = "icon-users"
 
-    [[params.services.item]]
+    [[params.organizations.item]]
       title = "Licensing"
       description = "Not sure what license to go with? Worried about intellectual property? Call a lawyer. But we can give you advice about how to standardize licensing and best practices around making sure your communities contributions conform to your licensing protocol."
       icon = "icon-copyright"
 
-    [[params.services.item]]
+    [[params.organizations.item]]
       title = "Open Sourcing"
       description = "Want to make your project open source, but don't know how? We'll help you modularize the code, and outline a strategy for getting people excited about your code."
       icon = "icon-question"
