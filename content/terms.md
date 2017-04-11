@@ -71,4 +71,4 @@ Permission is granted to temporarily download one copy of the materials (informa
 <li>We will only retain personal information for as long as necessary for the fulfilment of those purposes.</li>
 </ul>
 
-<p>We are committed to conducting our business in accordance with these principles in order to ensure that the
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. Maintainer Mountaineer may change this privacy policy from time to time at Maintainer Mountaineer's sole discretion.
