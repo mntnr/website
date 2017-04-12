@@ -90,10 +90,10 @@ analytics = "UA-4124866-42"
   [params.developers]
     enable = true
     title = "Solo Developer?"
-    description = "We've got you covered. Take the weekend off without worrying about your userbase. <br /><br /> Maintaining a ton of repos? Look at the Organization plans below."
+    description = "We've got you covered. Take the weekend off without worrying about your codebase. <br /><br /> Maintaining a ton of repos? Look at the Organization plans below."
 
     audit = "Just want a health check?"
-    auditText = "Sign up for developer experience audit. We'll take a look at your repo and let know what you can improve in one go."
+    auditText = "Sign up for a developer experience audit. We'll take a look at your repo and let you know what you can improve in one go."
 
     [[params.developers.item]]
       title = "Standard README"
@@ -193,7 +193,7 @@ analytics = "UA-4124866-42"
     title = "Larger Organization?"
     description = "We can help you maintain and market your Open Source presence. Don't scramble to find great devs: build them by having a welcoming, active, and maintained code community."
 
-    auditText = "Sign up for developer experience audit. We'll take a look at your organization and let you know what your devs can improve quickly."
+    auditText = "Sign up for a developer experience audit. We'll take a look at your organization and let you know what your devs can improve quickly."
 
 
     [[params.organizations.item]]
@@ -213,7 +213,7 @@ analytics = "UA-4124866-42"
 
     [[params.organizations.item]]
       title = "Licensing"
-      description = "Not sure what license to go with? Worried about intellectual property? Call a lawyer. But we can give you advice about how to standardize licensing and best practices around making sure your communities contributions conform to your licensing protocol."
+      description = "Not sure what license to go with? Worried about intellectual property? Call a lawyer. But we can give you advice about how to standardize licensing and best practices to make sure  contributions conform to your licensing protocol."
       icon = "icon-copyright"
 
     [[params.organizations.item]]
@@ -230,7 +230,7 @@ analytics = "UA-4124866-42"
     [[params.about.item]]
       name = "Gabi Ciudin"
       position = "Developer"
-      description = "Gabi codes from whatever train, bus, or hostel she happens to be in while travelling. She comes from the .NET world, bringing an important closed-source perspective to the team."
+      description = "Gabi codes from whatever train, bus, or hostel she happens to be in while traveling. She comes from the .NET world, bringing an important closed-source perspective to the team."
       img = "gabi.jpg"
       alt = "Gabi Ciudin"
       social = [
