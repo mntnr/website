@@ -97,7 +97,7 @@ analytics = "UA-4124866-42"
 
     [[params.developers.item]]
       title = "Standard README"
-      description = "Does your README have an install section? A Usage secton? How about a mention of API methods? Contribute? A good lede and description? We have a checklist we'll go over to make it look great. We'll even review your README now for free."
+      description = "Does your README have an install section? A Usage secton? How about a mention of API methods? Contribute? A good description? We have a checklist we'll go over to make it look great. We'll even review your README now for free."
       icon = "icon-book"
 
     [[params.developers.item]]
