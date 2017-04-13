@@ -302,7 +302,7 @@ analytics = "UA-4124866-42"
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "The road. We are 100% remote."],
-        ["icon-envelope", "info@maintainer.io"],
+        ["icon-envelope", "<a href="mailto:info@maintainer.io">info@maintainer.io</a>"],
         ["icon-globe", '<a href="https://maintainer.io" target="_blank">maintainer.io</a>']
       ]
 
