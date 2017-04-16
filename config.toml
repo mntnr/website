@@ -22,7 +22,7 @@ analytics = "UA-4124866-42"
 
   # Navigation
   [params.navigation]
-    brand = "Maintainer Mountaineer"
+    brand = "Maintainer.io"
     home = "Home"
     developers = "Devs"
     testimonials = "Quotes"
