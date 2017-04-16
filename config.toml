@@ -50,7 +50,7 @@ analytics = "UA-4124866-42"
     enable = true
     marketLede = "Just want a second opinion?"
     marketUrl = "https://plasso.com/s/KHnLKOSeK1"
-    marketText = "Get a DevExp Audit"
+    marketText = "Book an Audit"
 
   # Hero section
   [params.hero]
@@ -97,7 +97,7 @@ analytics = "UA-4124866-42"
 
     [[params.developers.item]]
       title = "Standard README"
-      description = "Does your README have an install section? A Usage secton? How about a mention of API methods? Contribute? A good description? We have a checklist we'll go over to make it look great. We'll even review your README now for free."
+      description = "Does your README have an install section? A Usage secton? How about a mention of API methods? Contributing Guides? A good description? We have a checklist we'll go over to make it look great. We'll even review your README now for free."
       icon = "icon-book"
 
     [[params.developers.item]]
@@ -145,7 +145,7 @@ analytics = "UA-4124866-42"
       alt = "Juan Benet of Protocol Labs"
 
     [[params.testimonials.item]]
-      quote = "Richard makes open source contribution accessible to developers of all levels in a very direct and personal way, helping people from our community find a project they can start contributing to right away. He's helping bring diversity and inclusion to OSS communities, while simultaneously lowering the barrier of entry to people from a wide variety of backgrounds."
+      quote = "Richard makes open source contribution accessible to developers of all levels in a very direct and personal way, helping people from our community find a project they can start contributing to right away. He's helping bring diversity and inclusion to open source communities, while simultaneously lowering the barrier of entry to people from a wide variety of backgrounds."
       person = 'Roberta Voulon, General Director of non-profit <a href="http://www.pitonneux.com/" target="_blank">Incubateur de talents Les Pitonneux</a>'
       img = "roberta.jpg"
       alt = "Roberta Voulon of Les Pitonneux"
@@ -302,7 +302,7 @@ analytics = "UA-4124866-42"
     # Available icons: http://simplelineicons.com/
     details = [
         ["icon-home", "The road. We are 100% remote."],
-        ["icon-envelope", "<a href="mailto:info@maintainer.io">info@maintainer.io</a>"],
+        ["icon-envelope", '<a href="mailto:info@maintainer.io">info@maintainer.io</a>'],
         ["icon-globe", '<a href="https://maintainer.io" target="_blank">maintainer.io</a>']
       ]
 
