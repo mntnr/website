@@ -16,11 +16,11 @@ And the toughest part is that there is no quick-fix solution. This is not just a
 
 **That's where we come in.**
 
-First, we can do [one-off audits](https://plasso.com/s/KHnLKOSeK1) of repositories or organizations. We have an internal checklist that we'll run through — is the README standardized, is there a Contributing document, a License, and so on.
+First, we can do one-off audits of repositories or organizations. We have an internal checklist that we'll run through — is the README standardized, is there a Contributing document, a License, and so on.
 
-**[We'll check your README for free.](https://plasso.com/s/KHnLKOSeK1)** Simply mail your repository name to [richard+readme@maintainer.io](mailto:richard+readme@maintainer.io).
+**[We'll check your README for free.](mailto:richard@maintainer.io?subject=Free Readme Audit!)** Simply mail your repository name to [richard@maintainer.io](mailto:richard+readme@maintainer.io).
 
-Our other service is [a retainer](https://plasso.com/s/RMPMGYmBER). We'll do the audit above, but also stick around to help out with actively maintaining the repository.
+Our other service is a retainer. We'll do the audit above, but also stick around to help out with actively maintaining the repository.
 
 Keen to learn more?
 

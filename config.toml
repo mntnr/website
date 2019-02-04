@@ -45,11 +45,11 @@ analytics = "UA-4124866-42"
     #  name = "External link"
     #  weight = 10
 
-  # Plasso
-  [params.plasso]
-    enable = true
+  # emailout
+  [params.emailout]
+    enable = false
     marketLede = "Just want a second opinion?"
-    marketUrl = "https://plasso.com/s/KHnLKOSeK1"
+    marketUrl = "mailto:richard@maintainer.io?subject=Booking a Maintainer Mountaineer audit"
     marketText = "Book an Audit"
 
   # Hero section
@@ -79,11 +79,11 @@ analytics = "UA-4124866-42"
     url = "#"
     icon = "icon-graph"
 
-  [params.intro.plasso]
+  [params.intro.emailout]
     enable = true
     title = "Ready to climb?"
-    text = "Maintenance Plans"
-    url = "https://plasso.com/s/RMPMGYmBER"
+    text = "Get in touch"
+    url = "mailto:richard@maintainer.io?subject=Open Source and Maintainer Mountaineer"
 
 
   # Developers section
@@ -151,10 +151,16 @@ analytics = "UA-4124866-42"
       alt = "Roberta Voulon of Les Pitonneux"
 
     [[params.testimonials.item]]
-      quote = "Richard has helped us identify numerous contribution-smells: where our project structure, onboarding, and contribution guidelines are inhibiting new users and participants from joining."
-      person = 'Simon Vansintjan, Contributor to <a href="http://opensourcedesign.net/" target="_blank">Open Source Design</a>'
-      img = "simon.jpeg"
-      alt = "Simon Vansintjan"
+      quote = "Richard helped us keep our GitHub issues under control at Read the Docs. He was quick to respond and triage incoming issues, and gave our community the sense that they were being looked after. Previously issues would sit for weeks, frustrating users, and filling us with guilt. With maintainer.io we had happier users, and felt much better about the support we were giving our community."
+      person = 'Eric Holscher, <a href="https://readthedocs.org/" target="_blank">Read The Docs</a> <span class="subtext">Founder</span>'
+      img = "eric.jpg"
+      alt = "Eric Holscher of Read The Docs"
+
+    # [[params.testimonials.item]]
+    #   quote = "Richard has helped us identify numerous contribution-smells: where our project structure, onboarding, and contribution guidelines are inhibiting new users and participants from joining."
+    #   person = 'Simon Vansintjan, Contributor to <a href="http://opensourcedesign.net/" target="_blank">Open Source Design</a>'
+    #   img = "simon.jpeg"
+    #   alt = "Simon Vansintjan"
 
 
   # Organization section
