@@ -2,20 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maintainer Mountaineer</title>
-    <link>https://mntnr.io/index.xml</link>
+    <link>https://maintainer.io/</link>
     <description>Recent content on Maintainer Mountaineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://mntnr.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://maintainer.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title></title>
-      <link>https://mntnr.io/test/</link>
+      <title>Terms of Service</title>
+      <link>https://maintainer.io/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mntnr.io/test/</guid>
-      <description>&lt;p&gt;Hello world&lt;/p&gt;
-</description>
+      <guid>https://maintainer.io/terms/</guid>
+      <description>Maintainer Mountaineer Terms of Service and Privacy Policy 1. Terms By accessing the website at https://maintainer.io, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.</description>
+    </item>
+    
+    <item>
+      <title>What we do here</title>
+      <link>https://maintainer.io/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maintainer.io/mission/</guid>
+      <description>So you&amp;rsquo;ve started an open source project. Got your own repos on github. Great. You&amp;rsquo;re part of the best solution to modern coding problems.
+But then your project gets 1000 stars. You start having issues every day. And now, you&amp;rsquo;re even tasked with maintaining an open source codebase from someone who left your company.
+This is the invisible problem with Open Source projects. It&amp;rsquo;s really easy to start. And when your project becomes popular, it is really, really hard to maintain.</description>
     </item>
     
   </channel>

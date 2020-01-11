@@ -1,4 +1,4 @@
 [submodule "themes/hugo-elate-theme"]
 	path = themes/hugo-elate-theme
 	url = git@github.com:RichardLitt/hugo-elate-theme.git
-	branch = 3fea79c
+	branch = 0fd76f7
